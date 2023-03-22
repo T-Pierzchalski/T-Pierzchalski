@@ -37,6 +37,6 @@ I want to find job as Front-End Developer <img src="https://media.giphy.com/medi
 
 - :soccer: In my free time, I like to play games or watching my favourite football club matches. 
 
-- :mailbox: How to reach me: <a href="mailto:t.pierzchalski0@gmail.com">(t.pierzchalski0@gmail.com)<img src="https://img.shields.io/badge/-G--mail-yellow" width="100"/></a>.
+- :mailbox: How to reach me: <a href="mailto:t.pierzchalski0@gmail.com">Click => <img src="https://img.shields.io/badge/-G--mail-yellow" width="100" height="auto"/></a>.
 
 
