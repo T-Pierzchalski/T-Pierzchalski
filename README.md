@@ -29,6 +29,7 @@ I am learning day by day javascript! :)</br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div></br>
+<h2><b>About me:</b></h2>
 I want to find job as Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Poland.
 
 - :computer: I want to make WWW applications with HTML, CSS and Javascript.
