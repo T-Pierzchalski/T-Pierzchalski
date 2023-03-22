@@ -1,6 +1,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@400;700&display=swap" rel="stylesheet">
+<div class="container" font-size="30px">
 Hi!<br>
 I am <b>tomek</b>, I have 23 years old.</br>
 
@@ -15,3 +16,4 @@ I am learning day by day javascript! :)</br>
   <img src="https://img.shields.io/badge/-Netlify-blue" width="100"/>
 </div>
 
+</div>
