@@ -1,7 +1,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@400;700&display=swap" rel="stylesheet">
-<div id="container" style ="font-family: 'Alkatra', cursive; font-size:16px;">
+<div id="container" style ="font-family: 'Alkatra', cursive; font-size:16px; color:red;">
 Hi!<br>
 I am tomek, I have 23 years old.</br>
 
